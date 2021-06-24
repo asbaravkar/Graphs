@@ -30,8 +30,6 @@ A cycle can be defined as the path which has no repeated edges or vertices excep
 - ### Walk
 Start from vertex, end with a vertex. Edges should be alternate and no repetition. Open walk start and end with different vertex. Closed walk start and end with same vertex.
 
-<br/>
-
 - ### Degree
 A degree of a node is the number of edges that are connected with that node. A node with degree 0 is called as isolated node.
 
